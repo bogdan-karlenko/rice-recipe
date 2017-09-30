@@ -1,0 +1,39 @@
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: darkred;
+}
+
+body {
+  padding: 20px 20px 20px 20px;
+}
+
+h1 {
+  margin: 10px 0 15px 0;
+}
+
+h2 {
+  margin: 10px 0 20px 0;
+}
+
+h3 {
+  margin: 15px 0 15px 0;
+  border-bottom: 1px solid #CCCCCC;
+  padding-bottom: 5px;
+}
+
+ul li {
+  display: inline;
+}
+
+ul {
+  padding: 0 0 0 50px;
+}
+
+ol {
+  padding: 0 0 0 50px;
+}
+
